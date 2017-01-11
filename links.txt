@@ -1,0 +1,9 @@
+turnstile_160507.txt
+turnstile_160514.txt
+turnstile_160521.txt
+turnstile_160528.txt
+turnstile_160604.txt
+turnstile_160611.txt
+turnstile_160618.txt
+turnstile_160625.txt
+turnstile_160702.txt
